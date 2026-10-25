@@ -47,7 +47,7 @@
 
 | 05. Audio Vault & Playback | 06. Documents & Secret Notes | 07. Branded Icon Camouflage | 08. Intruder Selfie & Consent |
 | :---: | :---: | :---: | :---: |
-| [![Audio Vault](https://files.catbox.moe/qojbo2.png)](https://files.catbox.moe/qojbo2.png) | [![Documents & Notes](https://files.catbox.moe/6v06m8.png)](https://files.catbox.moe/6v06m8.png) | [![Icon Camouflage](https://files.catbox.moe/zkquj3.png)](https://files.catbox.moe/zkquj3.png) | [![Intruder Selfie](https://files.catbox.moe/s1s19l.png)](https://files.catbox.moe/s1s19l.png) |
+| [![Audio Vault](https://files.catbox.moe/qojbo2.png)](https://files.catbox.moe/qojbo2.png) | [![Documents & Notes](https://files.catbox.moe/6v06m8.png)](https://files.catbox.moe/6v06m8.png) | [![Icon Camouflage](https://files.catbox.moe/nd5cqt.png)](https://files.catbox.moe/nd5cqt.png) | [![Intruder Selfie](https://files.catbox.moe/s1s19l.png)](https://files.catbox.moe/s1s19l.png) |
 | *Background media session & waveforms* | *Built-in PDF reader & secure notepad* | *Dynamic launcher activity camouflage* | *Opt-in CameraX silent threat capture* |
 
 ---
